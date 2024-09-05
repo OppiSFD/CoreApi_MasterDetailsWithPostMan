@@ -1,1 +1,1 @@
-# CoreApi_MasterDetailsWithPostMan
+# CoreApi_MasterDetailsWithPostMan(Candidate)
